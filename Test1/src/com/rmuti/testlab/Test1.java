@@ -3,7 +3,7 @@ package com.rmuti.testlab;
 public class Test1 {
 
 	public static void main(String[] args) {
-		System.out.print("Hello Work");
+		System.out.print("Hello  Work");
 	}
 
 }
