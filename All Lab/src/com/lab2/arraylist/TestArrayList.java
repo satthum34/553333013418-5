@@ -5,6 +5,7 @@ public class TestArrayList {
 	public static void main(String[] args) {
 		ArrayLisst arr = new ArrayLisst();
 		arr.add("1");
+		
 		System.out.println(arr);
 		arr.add("2");
 		System.out.println(arr);
